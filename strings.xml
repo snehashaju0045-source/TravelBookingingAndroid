@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Booking</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="explore_world">Where would you like to travel?</string>
+    <string name="search_hint">Search destinations (e.g. Bali, Paris, Goa)...</string>
+    
+    <!-- Category Chips -->
+    <string name="category_all">All</string>
+    <string name="category_flights">Flights</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_packages">Packages</string>
+    <string name="category_transport">Transport</string>
+    
+    <!-- Section Headers -->
+    <string name="popular_destinations">Popular Destinations</string>
+    <string name="available_packages">Available Packages &amp; Services</string>
+    <string name="my_bookings_title">My Bookings</string>
+    <string name="admin_dashboard_title">Admin Dashboard</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Sign In</string>
+    <string name="login_subtitle">Book your dream journey today</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Create Account</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="have_account">Already registered? Sign in</string>
+    <string name="demo_admin">Demo Admin: admin@travel.com / Admin@123</string>
+    
+    <!-- Booking -->
+    <string name="btn_book_now">Book Package</string>
+    <string name="select_travel_date">Select Travel Date</string>
+    <string name="travelers">Travelers</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="booking_confirmed">Booking Confirmed!</string>
+    <string name="booking_id">Booking ID:</string>
+    <string name="status_confirmed">CONFIRMED</string>
+    <string name="status_cancelled">CANCELLED</string>
+    <string name="btn_cancel_booking">Cancel Booking</string>
+    <string name="empty_bookings">No bookings found yet. Explore packages to book your first trip!</string>
+    
+    <!-- Admin -->
+    <string name="admin_add_package">Add Package</string>
+    <string name="admin_view_bookings">View All Bookings</string>
+    <string name="admin_stat_packages">Total Packages</string>
+    <string name="admin_stat_active">Active Packages</string>
+    <string name="admin_stat_bookings">Total Bookings</string>
+    <string name="admin_stat_revenue">Total Revenue</string>
+</resources>
